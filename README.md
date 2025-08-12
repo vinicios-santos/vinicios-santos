@@ -46,14 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/vinicios-santos">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vinicios-santos&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicios-santos&layout=compact&langs_count=8&theme=cobalt&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vinicios-santos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicios-santos&theme=cobalt&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicios-santos&layout=compact&langs_count=8&theme=cobalt&hide_border=true"/>
   </a>
 </div>
 
@@ -131,3 +124,4 @@ const vinicisoSantos = {
 **⭐ Obrigado pela visita! Deixe uma estrela se gostou do conteúdo ⭐**
 
 </div>
+
