@@ -10,7 +10,7 @@ Sou um desenvolvedor de software apaixonado por transformar ideias em realidade 
 </p>
 
 <div align="center">
-<a href="mailto:Viniciossantosdev@gmail.com">
+<a href="mailto:SEU_EMAIL_AQUI">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
