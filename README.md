@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/vinicios-santos">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicios-santos&layout=compact&langs_count=8&theme=cobalt&hide_border=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicios-santos&layout=compact&langs_count=8&theme=cobalt&hide_border=true"/>
   </a>
 </div>
 
@@ -124,4 +124,5 @@ const vinicisoSantos = {
 **⭐ Obrigado pela visita! Deixe uma estrela se gostou do conteúdo ⭐**
 
 </div>
+
 
